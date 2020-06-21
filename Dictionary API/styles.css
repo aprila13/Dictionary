@@ -108,12 +108,19 @@ audio {
   color: black;
 }
 
+
 .reference {
-  background-color: #2e5e9e;
-  color: white;
-  padding: 12px;
-  border-radius: 5px;
+  background-color: #ededed;
+  color: #2e5e9e;
+  padding: 5px;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border: 1px solid #2e5e9e;
   text-decoration: none;
+  display: block;
+  width: 25% !important;
+  text-align: center;
+  font-size: 15px;
 }
 
 .footer {
